@@ -1,0 +1,1 @@
+A Java-based application designed to automate the calculation, management, and reporting of student academic performance. This project serves as a practical implementation of Object-Oriented Programming (OOP) principles to replace manual grading workflows with a reliable digital solution.
